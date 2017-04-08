@@ -141,6 +141,27 @@ Figure 1: A fancy pie chart.
 </div>
 <pre class="r"><code>plot(1:10)</code></pre>
 <p><img src="../../../../post/2017-04-08-rise_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<pre>
+cite number of papers in pubmed vs pubmed central as function of year.
+
+https://www.ncbi.nlm.nih.gov/pmc/?term=2016%5BPDAT%5D
+
+http://www.michaeleisen.org/blog/?p=1654
+
+data from Eisen blog
+
+> o = epmc_profile("(FIRST_PDATE:[2000-01-01 TO 2001-01-01])")
+> o$pubType
+# A tibble: 5 × 2
+                 name  count
+*               <chr>  <int>
+1                 ALL 683257
+2           FULL TEXT  44033
+3         OPEN ACCESS   5693
+4              REVIEW  83315
+5 BOOKS AND DOCUMENTS    195
+
+</pre>
 </div>
 
 </div>
