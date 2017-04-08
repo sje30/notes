@@ -1,1 +1,4 @@
 public
+content/post/*html
+static/post/*
+
