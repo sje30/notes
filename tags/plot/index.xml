@@ -5,17 +5,17 @@
     <link>/tags/plot/index.xml</link>
     <language>en-us</language>
     <author></author>
-    <rights>(C) 2016</rights>
+    <rights>(C) 2017</rights>
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
 
     
       
         <item>
           <title>Hello 2 Markdown</title>
-          <link>/2015/07/23/hello-2-markdown/</link>
-          <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+          <link>/2017/04/08/hello-2-markdown/</link>
+          <pubDate>Sat, 08 Apr 2017 21:13:14 -0500</pubDate>
           <author></author>
-          <guid>/2015/07/23/hello-2-markdown/</guid>
+          <guid>/2017/04/08/hello-2-markdown/</guid>
           <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
